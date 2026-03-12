@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 
-from bank_system import BankSystem, BankingError
-from csv_repository import CSVUserRepository, CSVTransactionRepository
+from src.services.bank_system import BankSystem, BankingError
+from src.utils.csv_repository import CSVUserRepository, CSVTransactionRepository
 
 st.set_page_config(
     page_title="EgyBank — Banking System",

@@ -9,10 +9,10 @@ import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from bank_system import BankSystem, BankingError
-from user import User
-from transaction import Transaction
-from interfaces import IUserRepository, ITransactionRepository
+from src.services.bank_system import BankSystem, BankingError
+from src.models.user import User
+from src.models.transaction import Transaction
+from src.services.interfaces import IUserRepository, ITransactionRepository
 
 class MockUserRepository(IUserRepository):
 

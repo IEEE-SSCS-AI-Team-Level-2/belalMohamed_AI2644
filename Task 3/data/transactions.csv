@@ -1,0 +1,8 @@
+transaction_id,user_id,transaction_type,amount,balance_after,description,timestamp
+TRANS-457DC6D5,USR-0001,Account Created,0.0,0.0,Account opened.,2026-03-12 18:18:21
+TRANS-63C04D5A,USR-0001,Account Updated,0,0.0,Name changed from 'Belal Said' to 'Belal Mohamed'.,2026-03-12 18:22:20
+TRANS-DCCD4F2F,USR-0001,Deposit,100.0,100.0,Deposited 100.00 EGP.,2026-03-12 18:23:05
+TRANS-674D3A9E,USR-0001,Deposit,100.0,200.0,Deposited 100.00 EGP.,2026-03-12 18:23:18
+TRANS-168BAA35,USR-0001,Withdrawal,50.0,150.0,Withdrew 50.00 EGP.,2026-03-12 18:23:46
+TRANS-C83D2E94,USR-0002,Account Created,10.0,10.0,Account opened.,2026-03-12 18:24:53
+TRANS-DD7E5408,USR-0001,Account Deleted,0,0,Account closed.,2026-03-12 18:25:28

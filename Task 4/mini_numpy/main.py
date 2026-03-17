@@ -1,5 +1,5 @@
 from core.ndarray import CustomArray
-from statistics.stats import mean, var, std
+from array_statistics.stats import mean, var, std
 from creation.array_creation import array, zeros, ones, eye
 from exceptions.errors import DimensionMismatchError, NonNumericDataError, InvalidShapeError, InvalidOperationError
 

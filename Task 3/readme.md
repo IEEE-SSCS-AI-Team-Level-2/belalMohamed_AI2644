@@ -1,4 +1,4 @@
-# 🏦 NileBank — Complete Banking System
+# 🏦 EGYBank — Complete Banking System
 
 > A full-stack banking system built with Python OOP and SOLID principles, featuring a Streamlit web interface and CSV-based data persistence.
 
@@ -11,9 +11,9 @@
 
 ## 📌 Overview
 
-NileBank is a complete banking management system built from scratch using Object-Oriented Programming (OOP) and the SOLID design principles. It includes a clean web interface powered by Streamlit and persists all data in CSV files.
+EGYBank is a complete banking management system built from scratch using Object-Oriented Programming (OOP) and the SOLID design principles. It includes a clean web interface powered by Streamlit and persists all data in CSV files.
 
-This project was built as part of the **IEEE SSCS AI Team Task 3** and is designed to demonstrate professional-grade Python code structure, SOLID architecture, and separation of concerns.
+This project was built as part of the **IEEE SSCS AI Team** and is designed to demonstrate professional-grade Python code structure, SOLID architecture, and separation of concerns.
 
 ---
 
@@ -160,13 +160,3 @@ The app will open in your browser at `http://localhost:8501`.
 - **hashlib (stdlib)** — Password hashing
 - **dataclasses (stdlib)** — Clean model definitions
 - **abc (stdlib)** — Abstract base classes for SOLID interfaces
-
----
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
-*Built with ❤️ for the IEEE SSCS AI Team*
